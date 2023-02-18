@@ -187,10 +187,11 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 <style>
 .gs-section-02  h1 {
-color: pink;
+color: deeppink;
 font-size: 60px;
 
 .gs-section-02 p {
+ color: olive
 font-size: 50px;
      
  }
