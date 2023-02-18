@@ -12,9 +12,15 @@ Fork this project by clicking the __*Fork*__ button at the top right corner of t
 
 </div>
 
-### 2. Rename the project to `<yourusername>.github.io`
+<div class="gs-section-02" markdown="1">
 
+<h1> {{ ### 2. Rename the project to `<yourusername>.github.io` }} </h1>
+
+{{
 Click on __*Settings*__ at the top (the cog icon) and on that page you'll have an option to rename the project (*Repository name*). This will create a website with the **Beautiful Jekyll** template that will be available at `https://<yourusername>.github.io` within a couple minutes (check out the [FAQ](https://beautifuljekyll.com/faq/#custom-domain) if you want to use a different project name). If after a few minutes your website is still not ready, try making any edit to any file, just to force GitHub to re-build your site.
+}}
+
+</div>
 
 ### 3. Customize your website settings
 
@@ -176,3 +182,48 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 }
 
 </style>
+
+
+<style>
+
+               .gs-section-02 {
+                  margin-top: 100px;
+                  margin-bottom: 100px;
+                  padding-left: 30px;
+                  padding-right: 30px;
+                  text-align: justify;
+               }
+
+               .gs-section-02  p {
+                   line-height: 1.8
+               }
+
+               .gs-section-02  h1 {
+                   color: darkred;
+                   font-size: 40px;
+                }
+
+               .gs-section-02  h2 {
+                   color: darkred;
+                   font-size: 30px;
+                   margin-top: 60px;
+                }
+
+                .gs-section-02  img {
+                   border: 1px solid #ddd;
+                   border-radius: 8px;
+                   padding: 5px;
+                   width: 400px;
+                   display: block;
+                   margin-left: auto;
+                   margin-right: auto;
+                   width: 50%;
+                   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 
+                               0 6px 20px 0 rgba(0, 0, 0, 0.19);
+                }
+
+                .gs-section-02  img:hover {
+                   box-shadow: 0 0 3px 1px rgba(0, 140, 186, 0.5);
+                }
+
+                </style>
