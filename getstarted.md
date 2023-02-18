@@ -185,8 +185,8 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 <style>
 
                .gs-section-02  h1 {
-                   color: darkred;
-                   font-size: 40px;
+                   color: pink;
+                   font-size: 60px;
                 }
 
                 </style>
