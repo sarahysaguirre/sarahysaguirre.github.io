@@ -191,7 +191,7 @@ color: deeppink;
 font-size: 60px; }
 
 .gs-section-02 p {
- color: olive
+ color: olive;
 font-size: 50px;
      
  }
