@@ -188,7 +188,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 <style>
 .gs-section-02  h1 {
 color: pink;
-ont-size: 60px;
+font-size: 60px;
 
 .gs-section-02 p {
 font-size: 50px;
