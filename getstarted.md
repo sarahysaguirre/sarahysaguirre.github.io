@@ -186,14 +186,12 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 
 <style>
-.gs-section-02  h1 {
-color: deeppink;
-font-size: 60px; }
-
-.gs-section-02 p {
- color: olive;
-font-size: 50px;
-     
- }
+               .gs-section-02 {
+                  margin-top: 100px;
+                  margin-bottom: 100px;
+                  padding-left: 30px;
+                  padding-right: 30px;
+                  text-align: justify;
+               }
 
 </style>
