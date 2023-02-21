@@ -1,78 +1,40 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: A Love Poem
+subtitle: Something Beautiful 
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
-**Here is some bold text**
+How do I love thee? Let me count the ways.
 
-## Here is a secondary heading
+I love thee to the depth and breadth and height
 
-Here's a useless table:
+My soul can reach, when feeling out of sight
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+For the ends of being and ideal grace.
 
+I love thee to the level of every day's
 
-How about a yummy crepe?
+Most quiet need, by sun and candle-light.
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+I love thee freely, as men strive for right.
 
-It can also be centered!
+I love thee purely, as they turn from praise.
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+I love thee with the passion put to use
 
-Here's a code chunk:
+In my old griefs, and with my childhood's faith.
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
+I love thee with a love I seemed to lose
 
-And here is the same code with syntax highlighting:
+With my lost saints. I love thee with the breath,
 
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
+Smiles, tears, of all my life; and, if God choose,
 
-And here is the same code yet again but with line numbers:
+I shall but love thee better after death.
 
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+- Elizabeth Barrett Browning 
