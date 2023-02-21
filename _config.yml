@@ -17,7 +17,7 @@ description: One Final Valentine's Day gift to my Husband
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutus"
+  About Us: "aboutus"
   Resources:
     - Getting Started: "getstarted"                         # ADD THIS LINK
     - Table Demo: "table-demo"              # ADD THIS LINK
